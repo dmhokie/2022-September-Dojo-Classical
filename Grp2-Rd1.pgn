@@ -18,6 +18,22 @@
 [Site "chess.com"]
 [Date "2022.09.05"]
 [Round "1"]
+[White "backgroundtasks"]
+[Black "SniffOhGod"]
+[Result "*"]
+[Section "1200-1600"]
+[WhiteId "backgroundtasks#8903"]
+[BlackId "Psycho John Madden#1828"]
+[WhiteElo "1481"]
+[BlackElo "1574"]
+
+{[%SevillaID "4884"]}
+*
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.05"]
+[Round "1"]
 [White "Brake0fDawn"]
 [Black "Firdswell"]
 [Result "*"]

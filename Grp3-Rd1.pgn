@@ -193,6 +193,22 @@
 [Site "chess.com"]
 [Date "2022.09.05"]
 [Round "1"]
+[White "Johannes-Brahms"]
+[Black "Vakrank"]
+[Result "*"]
+[Section "1600+"]
+[WhiteId "RaisinBranCrunch (L,C-4)#6099"]
+[BlackId "Vackrank#4319"]
+[WhiteElo "1887"]
+[BlackElo "1993"]
+
+{[%SevillaID "4885"]}
+*
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.05"]
+[Round "1"]
 [White "KrasivyyeShakhmaty"]
 [Black "LCalvary"]
 [Result "*"]
@@ -298,6 +314,22 @@
 [BlackElo "1804"]
 
 {[%SevillaID "4878"]}
+*
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.05"]
+[Round "1"]
+[White "Plantr"]
+[Black "TheKnightsGambitYT"]
+[Result "*"]
+[Section "1600+"]
+[WhiteId "Plantr91 #1357"]
+[BlackId "yoghurtguy #9693"]
+[WhiteElo "1741"]
+[BlackElo "1826"]
+
+{[%SevillaID "4886"]}
 *
 
 [Event "2022 September Dojo Classical"]

@@ -289,6 +289,22 @@
 [Site "chess.com"]
 [Date "2022.09.05"]
 [Round "1"]
+[White "SageMuffin"]
+[Black "ProfessorRage01"]
+[Result "*"]
+[Section "u1200"]
+[WhiteId "SageMuffin#0150"]
+[BlackId "DrProfessorRage#8202"]
+[WhiteElo "931"]
+[BlackElo "400"]
+
+{[%SevillaID "4883"]}
+*
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.05"]
+[Round "1"]
 [White "SloBones"]
 [Black "cnunezre"]
 [Result "*"]
