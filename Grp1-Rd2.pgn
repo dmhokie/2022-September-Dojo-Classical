@@ -11,7 +11,7 @@
 [WhiteElo "1132"]
 [BlackElo "931"]
 
-{[%SevillaID "4893"]}
+{[%SevillaID "5036"]}
 *
 
 [Event "2022 September Dojo Classical"]
@@ -27,7 +27,7 @@
 [WhiteElo "933"]
 [BlackElo "1049"]
 
-{[%SevillaID "4901"]}
+{[%SevillaID "5044"]}
 *
 
 [Event "2022 September Dojo Classical"]
@@ -43,7 +43,7 @@
 [WhiteElo "1113"]
 [BlackElo "915"]
 
-{[%SevillaID "4894"]}
+{[%SevillaID "5037"]}
 *
 
 [Event "2022 September Dojo Classical"]
@@ -51,15 +51,15 @@
 [Date "2022.09.12"]
 [Round "2"]
 [White "BelgianDood"]
-[Black "Thalhuber"]
+[Black "Justapatzer94"]
 [Result "*"]
 [Section "u1200"]
 [WhiteId "BelgianDood#5171"]
-[BlackId "Thalhuber"]
+[BlackId "dropshot94 #9858"]
 [WhiteElo "1006"]
-[BlackElo "841"]
+[BlackElo "824"]
 
-{[%SevillaID "4911"]}
+{[%SevillaID "5054"]}
 *
 
 [Event "2022 September Dojo Classical"]
@@ -67,15 +67,15 @@
 [Date "2022.09.12"]
 [Round "2"]
 [White "bjg819"]
-[Black "Justapatzer94"]
+[Black "gundamwingsdj"]
 [Result "*"]
 [Section "u1200"]
 [WhiteId "billy_gardner_(C, -7)#6914"]
-[BlackId "dropshot94 #9858"]
+[BlackId "gundamwings#1919"]
 [WhiteElo "994"]
-[BlackElo "824"]
+[BlackElo "598"]
 
-{[%SevillaID "4913"]}
+{[%SevillaID "5056"]}
 *
 
 [Event "2022 September Dojo Classical"]
@@ -91,7 +91,7 @@
 [WhiteElo "1110"]
 [BlackElo "943"]
 
-{[%SevillaID "4905"]}
+{[%SevillaID "5048"]}
 *
 
 [Event "2022 September Dojo Classical"]
@@ -107,7 +107,7 @@
 [WhiteElo "1185"]
 [BlackElo "1061"]
 
-{[%SevillaID "4889"]}
+{[%SevillaID "5032"]}
 *
 
 [Event "2022 September Dojo Classical"]
@@ -115,15 +115,15 @@
 [Date "2022.09.12"]
 [Round "2"]
 [White "CorrosionTech"]
-[Black "King anthony"]
+[Black "J0hnCage"]
 [Result "*"]
 [Section "u1200"]
 [WhiteId "CorrosionTech#2254"]
-[BlackId "Rukkus #7416"]
+[BlackId "spoitras#1066"]
 [WhiteElo "1153"]
-[BlackElo "1035"]
+[BlackElo "1052"]
 
-{[%SevillaID "4890"]}
+{[%SevillaID "5033"]}
 *
 
 [Event "2022 September Dojo Classical"]
@@ -139,7 +139,7 @@
 [WhiteElo "987"]
 [BlackElo "1112"]
 
-{[%SevillaID "4895"]}
+{[%SevillaID "5038"]}
 *
 
 [Event "2022 September Dojo Classical"]
@@ -155,7 +155,7 @@
 [WhiteElo "1099"]
 [BlackElo "865"]
 
-{[%SevillaID "4909"]}
+{[%SevillaID "5052"]}
 *
 
 [Event "2022 September Dojo Classical"]
@@ -163,31 +163,15 @@
 [Date "2022.09.12"]
 [Round "2"]
 [White "Deactar"]
-[Black "Tarzan1787"]
+[Black "valakon"]
 [Result "*"]
 [Section "u1200"]
 [WhiteId "Deactar (L,C)#5187"]
-[BlackId "Isaac1787#0162"]
+[BlackId "Valakon.7854"]
 [WhiteElo "1149"]
-[BlackElo "1035"]
+[BlackElo "1046"]
 
-{[%SevillaID "4891"]}
-*
-
-[Event "2022 September Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.09.12"]
-[Round "2"]
-[White "gundamwingsdj"]
-[Black "Muddlah"]
-[Result "*"]
-[Section "u1200"]
-[WhiteId "gundamwings#1919"]
-[BlackId "Muddlah #1053"]
-[WhiteElo "598"]
-[BlackElo "968"]
-
-{[%SevillaID "4915"]}
+{[%SevillaID "5034"]}
 *
 
 [Event "2022 September Dojo Classical"]
@@ -203,7 +187,7 @@
 [WhiteElo "900"]
 [BlackElo "1108"]
 
-{[%SevillaID "4906"]}
+{[%SevillaID "5049"]}
 *
 
 [Event "2022 September Dojo Classical"]
@@ -219,23 +203,23 @@
 [WhiteElo "885"]
 [BlackElo "1081"]
 
-{[%SevillaID "4897"]}
+{[%SevillaID "5040"]}
 *
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
 [Date "2022.09.12"]
 [Round "2"]
-[White "J0hnCage"]
-[Black "InnerCityU"]
+[White "King anthony"]
+[Black "Thalhuber"]
 [Result "*"]
 [Section "u1200"]
-[WhiteId "spoitras#1066"]
-[BlackId "InnerCity"]
-[WhiteElo "1052"]
-[BlackElo "1149"]
+[WhiteId "Rukkus #7416"]
+[BlackId "Thalhuber"]
+[WhiteElo "1035"]
+[BlackElo "841"]
 
-{[%SevillaID "4892"]}
+{[%SevillaID "5053"]}
 *
 
 [Event "2022 September Dojo Classical"]
@@ -251,7 +235,7 @@
 [WhiteElo "1181"]
 [BlackElo "954"]
 
-{[%SevillaID "4903"]}
+{[%SevillaID "5046"]}
 *
 
 [Event "2022 September Dojo Classical"]
@@ -259,15 +243,15 @@
 [Date "2022.09.12"]
 [Round "2"]
 [White "Lg73204"]
-[Black "valakon"]
+[Black "SloBones"]
 [Result "*"]
 [Section "u1200"]
 [WhiteId "Lg73204#6749"]
-[BlackId "Valakon.7854"]
+[BlackId "SloBones#6394"]
 [WhiteElo "856"]
-[BlackElo "1046"]
+[BlackElo "1000"]
 
-{[%SevillaID "4910"]}
+{[%SevillaID "5055"]}
 *
 
 [Event "2022 September Dojo Classical"]
@@ -283,7 +267,7 @@
 [WhiteElo "1066"]
 [BlackElo "490"]
 
-{[%SevillaID "4898"]}
+{[%SevillaID "5041"]}
 *
 
 [Event "2022 September Dojo Classical"]
@@ -299,7 +283,7 @@
 [WhiteElo "793"]
 [BlackElo "1115"]
 
-{[%SevillaID "4900"]}
+{[%SevillaID "5043"]}
 *
 
 [Event "2022 September Dojo Classical"]
@@ -315,7 +299,7 @@
 [WhiteElo "963"]
 [BlackElo "1194"]
 
-{[%SevillaID "4902"]}
+{[%SevillaID "5045"]}
 *
 
 [Event "2022 September Dojo Classical"]
@@ -331,7 +315,7 @@
 [WhiteElo "930"]
 [BlackElo "1150"]
 
-{[%SevillaID "4904"]}
+{[%SevillaID "5047"]}
 *
 
 [Event "2022 September Dojo Classical"]
@@ -346,7 +330,23 @@
 [WhiteElo "1100"]
 [BlackElo "900"]
 
-{[%SevillaID "4907"]}
+{[%SevillaID "5050"]}
+*
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.12"]
+[Round "2"]
+[White "ProfessorRage01"]
+[Black "Muddlah"]
+[Result "*"]
+[Section "u1200"]
+[WhiteId "DrProfessorRage#8202"]
+[BlackId "Muddlah #1053"]
+[WhiteElo "400"]
+[BlackElo "968"]
+
+{[%SevillaID "5058"]}
 *
 
 [Event "2022 September Dojo Classical"]
@@ -362,7 +362,7 @@
 [WhiteElo "872"]
 [BlackElo "1100"]
 
-{[%SevillaID "4908"]}
+{[%SevillaID "5051"]}
 *
 
 [Event "2022 September Dojo Classical"]
@@ -378,7 +378,7 @@
 [WhiteElo "950"]
 [BlackElo "1184"]
 
-{[%SevillaID "4899"]}
+{[%SevillaID "5042"]}
 *
 
 [Event "2022 September Dojo Classical"]
@@ -386,15 +386,15 @@
 [Date "2022.09.12"]
 [Round "2"]
 [White "space foobar"]
-[Black "SloBones"]
+[Black "sully2112"]
 [Result "*"]
 [Section "u1200"]
 [WhiteId "space_foobar #5723"]
-[BlackId "SloBones#6394"]
+[BlackId "sully2112#4628"]
 [WhiteElo "827"]
-[BlackElo "1000"]
+[BlackElo "993"]
 
-{[%SevillaID "4912"]}
+{[%SevillaID "5057"]}
 *
 
 [Event "2022 September Dojo Classical"]
@@ -410,23 +410,23 @@
 [WhiteElo "1082"]
 [BlackElo "882"]
 
-{[%SevillaID "4896"]}
+{[%SevillaID "5039"]}
 *
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
 [Date "2022.09.12"]
 [Round "2"]
-[White "TonyRubak"]
-[Black "sully2112"]
+[White "Tarzan1787"]
+[Black "InnerCityU"]
 [Result "*"]
 [Section "u1200"]
-[WhiteId "Tony Rubak#2211"]
-[BlackId "sully2112#4628"]
-[WhiteElo "775"]
-[BlackElo "993"]
+[WhiteId "Isaac1787#0162"]
+[BlackId "InnerCity"]
+[WhiteElo "1035"]
+[BlackElo "1149"]
 
-{[%SevillaID "4914"]}
+{[%SevillaID "5035"]}
 *
 
 
