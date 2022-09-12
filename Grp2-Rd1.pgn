@@ -274,14 +274,30 @@
 [Round "1"]
 [White "Nthplayer1"]
 [Black "Ex Ante"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [BlackId "cassette#7106"]
 [WhiteElo "1360"]
 [BlackElo "1200"]
 
 {[%SevillaID "4854"]}
-*
+1-0
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.05"]
+[Round "1"]
+[White "Pareo331"]
+[Black "Falken1984"]
+[Result "0-1"]
+[Section "1200-1600"]
+[WhiteId "Pareo#5554"]
+[BlackId "Falken1984#4114"]
+[WhiteElo "1358"]
+[BlackElo "1400"]
+
+{[%SevillaID "4887"]}
+0-1
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -368,14 +384,14 @@
 [Round "1"]
 [White "spotted hedgehog"]
 [Black "mrpithers"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600"]
 [WhiteId "spotted_hedgehog (L, -5)#0174"]
 [WhiteElo "1289"]
 [BlackElo "1473"]
 
 {[%SevillaID "4841"]}
-*
+0-1
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -383,7 +399,7 @@
 [Round "1"]
 [White "SquanchyBirdperson"]
 [Black "squarezou"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600"]
 [WhiteId "SquanchyBirdperson#8586"]
 [BlackId "Leavzou#6109"]
@@ -391,7 +407,7 @@
 [BlackElo "1564"]
 
 {[%SevillaID "4831"]}
-*
+0-1
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -399,7 +415,7 @@
 [Round "1"]
 [White "tanishlad"]
 [Black "Shurbz"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600"]
 [WhiteId "destiny_son#7353"]
 [BlackId "BenHedges#6591"]
@@ -407,7 +423,7 @@
 [BlackElo "1222"]
 
 {[%SevillaID "4852"]}
-*
+0-1
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -415,14 +431,14 @@
 [Round "1"]
 [White "wallybanks"]
 [Black "Pfeiffer"]
-[Result "*"]
+[Result "0-0"]
 [Section "1200-1600"]
 [BlackId "Harkonnen#5350"]
 [WhiteElo "1434"]
 [BlackElo "1260"]
 
 {[%SevillaID "4846"]}
-*
+0-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -439,21 +455,5 @@
 
 {[%SevillaID "4830"]}
 1-0
-
-[Event "2022 September Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.09.05"]
-[Round "1"]
-[White "Pareo331"]
-[Black "Falken1984"]
-[Result "0-1"]
-[Section "1200-1600"]
-[WhiteId "Pareo#5554"]
-[BlackId "Falken1984#4114"]
-[WhiteElo "1358"]
-[BlackElo "1400"]
-
-{[%SevillaID "4887"]}
-0-1
 
 
