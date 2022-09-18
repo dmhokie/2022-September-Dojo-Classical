@@ -50,22 +50,6 @@
 [Site "chess.com"]
 [Date "2022.09.05"]
 [Round "1"]
-[White "gundamwingsdj"]
-[Black "Tarzan1787"]
-[Result "0-1"]
-[Section "u1200"]
-[WhiteId "gundamwings#1919"]
-[BlackId "Isaac1787#0162"]
-[WhiteElo "598"]
-[BlackElo "1035"]
-
-{[%SevillaID "4940"]}
-0-1
-
-[Event "2022 September Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.09.05"]
-[Round "1"]
 [White "hailbo"]
 [Black "StevoWard"]
 [Result "0-1"]
@@ -157,6 +141,22 @@
 
 {[%SevillaID "4937"]}
 0-1
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.05"]
+[Round "1"]
+[White "King anthony"]
+[Black "gundamwingsdj"]
+[Result "1-0"]
+[Section "u1200"]
+[WhiteId "Rukkus #7416"]
+[BlackId "gundamwings#1919"]
+[WhiteElo "1035"]
+[BlackElo "598"]
+
+{[%SevillaID "4940"]}
+1-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -402,11 +402,11 @@
 [Date "2022.09.05"]
 [Round "1"]
 [White "TonyRubak"]
-[Black "King anthony"]
+[Black "Tarzan1787"]
 [Result "0-0"]
 [Section "u1200"]
 [WhiteId "Tony Rubak#2211"]
-[BlackId "Rukkus #7416"]
+[BlackId "Isaac1787#0162"]
 [WhiteElo "775"]
 [BlackElo "1035"]
 
