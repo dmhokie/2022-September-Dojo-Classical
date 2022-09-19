@@ -353,22 +353,6 @@
 [Site "chess.com"]
 [Date "2022.09.12"]
 [Round "2"]
-[White "TonyRubak"]
-[Black "tcastro5491"]
-[Result "0-1"]
-[Section "u1200"]
-[WhiteId "Tony Rubak#2211"]
-[BlackId "Thiagocvieira_#6151"]
-[WhiteElo "775"]
-[BlackElo "1100"]
-
-{[%SevillaID "5051"]}
-0-1
-
-[Event "2022 September Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.09.12"]
-[Round "2"]
 [White "sachapaynee"]
 [Black "sinewave13"]
 [Result "0-1"]
@@ -427,6 +411,22 @@
 [BlackElo "1149"]
 
 {[%SevillaID "5035"]}
+0-1
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.12"]
+[Round "2"]
+[White "TonyRubak"]
+[Black "tcastro5491"]
+[Result "0-1"]
+[Section "u1200"]
+[WhiteId "Tony Rubak#2211"]
+[BlackId "Thiagocvieira_#6151"]
+[WhiteElo "775"]
+[BlackElo "1100"]
+
+{[%SevillaID "5051"]}
 0-1
 
 
