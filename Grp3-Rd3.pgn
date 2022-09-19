@@ -240,6 +240,22 @@
 [Site "chess.com"]
 [Date "2022.09.19"]
 [Round "3"]
+[White "Loboto"]
+[Black "Cyclop3000"]
+[Result "*"]
+[Section "1600+"]
+[WhiteId "Loboto#2318"]
+[BlackId "Cyclop3000#0225"]
+[WhiteElo "1600"]
+[BlackElo "1664"]
+
+{[%SevillaID "5145"]}
+*
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.19"]
+[Round "3"]
 [White "mharris22"]
 [Black "Lolada"]
 [Result "*"]
