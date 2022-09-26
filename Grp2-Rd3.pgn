@@ -36,7 +36,7 @@
 [Round "3"]
 [White "Ashhamm"]
 [Black "Eziltair146"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600"]
 [WhiteId "Lief#6826"]
 [BlackId "#Shreemay18"]
@@ -44,7 +44,7 @@
 [BlackElo "1459"]
 
 {[%SevillaID "5101"]}
-*
+0-1
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -131,7 +131,7 @@
 [Round "3"]
 [White "DopeyAddick"]
 [Black "squarezou"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [WhiteId "SeaDevil#3785"]
 [BlackId "Leavzou#6109"]
@@ -139,7 +139,7 @@
 [BlackElo "1564"]
 
 {[%SevillaID "5089"]}
-*
+1-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -226,14 +226,14 @@
 [Round "3"]
 [White "Itzael ML"]
 [Black "mrpithers"]
-[Result "1-0"]
+[Result "1/2-1/2"]
 [Section "1200-1600"]
 [WhiteId "Itzael#2872"]
 [WhiteElo "1400"]
 [BlackElo "1473"]
 
 {[%SevillaID "5099"]}
-1-0
+1/2-1/2
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -273,7 +273,7 @@
 [Round "3"]
 [White "MochelexBofbeurk"]
 [Black "TW0GOATS"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1200-1600"]
 [WhiteId "E.T.A Hopsmann#5127"]
 [BlackId "TwoGoats#1285"]
@@ -281,7 +281,7 @@
 [BlackElo "1238"]
 
 {[%SevillaID "5088"]}
-*
+1/2-1/2
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -336,7 +336,7 @@
 [Round "3"]
 [White "PigofFengtai"]
 [Black "CKBega"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1200-1600"]
 [WhiteId "gravyjoneslocker (L, +1)#5604"]
 [BlackId "CKBega#3768"]
@@ -344,7 +344,7 @@
 [BlackElo "1225"]
 
 {[%SevillaID "5107"]}
-*
+1/2-1/2
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -352,7 +352,7 @@
 [Round "3"]
 [White "Pufferfish 27"]
 [Black "zeroque"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [WhiteId "Pufferfish#3035"]
 [BlackId "Jroque #2911"]
@@ -360,7 +360,7 @@
 [BlackElo "1570"]
 
 {[%SevillaID "5087"]}
-*
+1-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -368,7 +368,7 @@
 [Round "3"]
 [White "realraptor"]
 [Black "FourOne1"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600"]
 [WhiteId "realraptor #2628"]
 [BlackId "FourOne1#1161"]
@@ -376,7 +376,7 @@
 [BlackElo "1451"]
 
 {[%SevillaID "5102"]}
-*
+0-1
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]

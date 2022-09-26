@@ -98,7 +98,7 @@
 [Round "3"]
 [White "flyingnome"]
 [Black "privacyplay"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+"]
 [WhiteId "Flyingnome4#8858"]
 [BlackId "tjerming#7892"]
@@ -106,7 +106,7 @@
 [BlackElo "1752"]
 
 {[%SevillaID "5137"]}
-*
+0-1
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -130,7 +130,7 @@
 [Round "3"]
 [White "Hype71"]
 [Black "ZeCharcoal"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+"]
 [WhiteId "Hype#0624"]
 [BlackId "charcoal#5979"]
@@ -138,7 +138,7 @@
 [BlackElo "1810"]
 
 {[%SevillaID "5139"]}
-*
+1-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -146,7 +146,7 @@
 [Round "3"]
 [White "ilovefarting"]
 [Black "Bartholomaeus"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1600+"]
 [WhiteId "milesbright#1964"]
 [BlackId "Bartholomaeus89#0647"]
@@ -154,7 +154,7 @@
 [BlackElo "1794"]
 
 {[%SevillaID "5118"]}
-*
+1/2-1/2
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -290,7 +290,7 @@
 [Round "3"]
 [White "Pauli3141"]
 [Black "Noclue15"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1600+"]
 [WhiteId "Pauli#4131"]
 [BlackId "imahere#6323"]
@@ -298,7 +298,7 @@
 [BlackElo "1926"]
 
 {[%SevillaID "5119"]}
-*
+1/2-1/2
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -322,7 +322,7 @@
 [Round "3"]
 [White "Smizzylov"]
 [Black "Plantr"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+"]
 [WhiteId "Smizzylov (C, -4)#7640"]
 [BlackId "Plantr91 #1357"]
@@ -330,7 +330,7 @@
 [BlackElo "1741"]
 
 {[%SevillaID "5120"]}
-*
+1-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -418,7 +418,7 @@
 [Round "3"]
 [White "UbikDojo"]
 [Black "Dan-Jon"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+"]
 [WhiteId "ubik#2526"]
 [BlackId "Moka Efti #3195"]
@@ -426,7 +426,7 @@
 [BlackElo "1731"]
 
 {[%SevillaID "5144"]}
-*
+1-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -434,7 +434,7 @@
 [Round "3"]
 [White "Vakrank"]
 [Black "joel cato"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+"]
 [WhiteId "Vackrank#4319"]
 [BlackId "joel_cato [Life Wins]#7861"]
@@ -442,7 +442,7 @@
 [BlackElo "1797"]
 
 {[%SevillaID "5127"]}
-*
+1-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
