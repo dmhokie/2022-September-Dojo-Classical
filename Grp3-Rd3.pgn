@@ -4,14 +4,14 @@
 [Round "3"]
 [White "backrankbrawler"]
 [Black "carefulonreenetry"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+"]
 [WhiteId "backrankbrawler#4978"]
 [WhiteElo "1872"]
 [BlackElo "1613"]
 
 {[%SevillaID "5123"]}
-*
+0-1
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -338,7 +338,7 @@
 [Round "3"]
 [White "svenosaurus"]
 [Black "loanedpaw"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+"]
 [WhiteId "icantdrive#2873"]
 [BlackId "Loanedpawn"]
@@ -346,7 +346,7 @@
 [BlackElo "2019"]
 
 {[%SevillaID "5135"]}
-*
+0-1
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -354,7 +354,7 @@
 [Round "3"]
 [White "System1773"]
 [Black "mdknight0"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1600+"]
 [WhiteId "gaben1773#4037"]
 [BlackId "mdknight0#9201"]
@@ -362,7 +362,7 @@
 [BlackElo "1676"]
 
 {[%SevillaID "5140"]}
-*
+1/2-1/2
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
