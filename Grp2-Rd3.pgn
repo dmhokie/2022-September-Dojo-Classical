@@ -52,7 +52,7 @@
 [Round "3"]
 [White "backgroundtasks"]
 [Black "figgeous"]
-[Result "0-0"]
+[Result "0-1"]
 [Section "1200-1600"]
 [WhiteId "backgroundtasks#8903"]
 [BlackId "figgeous1182"]
@@ -60,7 +60,7 @@
 [BlackElo "1350"]
 
 {[%SevillaID "5097"]}
-0-0
+0-1
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -345,22 +345,6 @@
 
 {[%SevillaID "5107"]}
 1/2-1/2
-
-[Event "2022 September Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.09.19"]
-[Round "3"]
-[White "Pufferfish 27"]
-[Black "zeroque"]
-[Result "1-0"]
-[Section "1200-1600"]
-[WhiteId "Pufferfish#3035"]
-[BlackId "Jroque #2911"]
-[WhiteElo "1315"]
-[BlackElo "1570"]
-
-{[%SevillaID "5087"]}
-1-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]

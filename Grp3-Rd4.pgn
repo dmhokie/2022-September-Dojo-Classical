@@ -400,6 +400,21 @@
 [Site "chess.com"]
 [Date "2022.09.26"]
 [Round "4"]
+[White "Pufferfish 27"]
+[Black "stjoes"]
+[Result "*"]
+[Section "1600+"]
+[WhiteId "Pufferfish#3035"]
+[WhiteElo "1696"]
+[BlackElo "1780"]
+
+{[%SevillaID "5255"]}
+*
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.26"]
+[Round "4"]
 [White "tompainter196"]
 [Black "Smizzylov"]
 [Result "*"]

@@ -161,22 +161,6 @@
 [Site "chess.com"]
 [Date "2022.09.05"]
 [Round "1"]
-[White "Gigaskipper"]
-[Black "Pufferfish 27"]
-[Result "0-1"]
-[Section "1200-1600"]
-[WhiteId "Almask#2032"]
-[BlackId "Pufferfish#3035"]
-[WhiteElo "1511"]
-[BlackElo "1315"]
-
-{[%SevillaID "4838"]}
-0-1
-
-[Event "2022 September Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.09.05"]
-[Round "1"]
 [White "Goodhumor"]
 [Black "Dokako"]
 [Result "0-1"]
