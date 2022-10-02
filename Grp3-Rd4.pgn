@@ -68,7 +68,7 @@
 [Round "4"]
 [White "chess artist6"]
 [Black "vvkannan"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+"]
 [WhiteId "veera#6201"]
 [BlackId "#evk"]
@@ -76,7 +76,7 @@
 [BlackElo "1958"]
 
 {[%SevillaID "5226"]}
-*
+0-1
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
