@@ -20,7 +20,7 @@
 [Round "4"]
 [White "AngryNaartjie"]
 [Black "Deactar"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "u1200"]
 [WhiteId "AngryNaartjie#7472"]
 [BlackId "Deactar (L,C)#5187"]
@@ -28,7 +28,7 @@
 [BlackElo "1149"]
 
 {[%SevillaID "5173"]}
-*
+1/2-1/2
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -84,7 +84,7 @@
 [Round "4"]
 [White "CorrosionTech"]
 [Black "theseankelly"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "CorrosionTech#2254"]
 [BlackId "theseankelly#4146"]
@@ -92,7 +92,7 @@
 [BlackElo "1061"]
 
 {[%SevillaID "5171"]}
-*
+1-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -100,7 +100,7 @@
 [Round "4"]
 [White "gundamwingsdj"]
 [Black "Marziotta"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "gundamwings#1919"]
 [BlackId "marziotta#1361"]
@@ -108,7 +108,7 @@
 [BlackElo "954"]
 
 {[%SevillaID "5188"]}
-*
+0-1
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -116,7 +116,7 @@
 [Round "4"]
 [White "iammrrush"]
 [Black "hola2world"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "iammrrush#3894"]
 [BlackId "hola2world #7247"]
@@ -124,7 +124,7 @@
 [BlackElo "1081"]
 
 {[%SevillaID "5178"]}
-*
+0-1
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -164,7 +164,7 @@
 [Round "4"]
 [White "Johansen231"]
 [Black "tcastro5491"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "Mat Johnson #4880"]
 [BlackId "Thiagocvieira_#6151"]
@@ -172,7 +172,7 @@
 [BlackElo "1100"]
 
 {[%SevillaID "5176"]}
-*
+0-1
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -180,7 +180,7 @@
 [Round "4"]
 [White "Justapatzer94"]
 [Black "SloBones"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "dropshot94 #9858"]
 [BlackId "SloBones#6394"]
@@ -188,7 +188,7 @@
 [BlackElo "1000"]
 
 {[%SevillaID "5186"]}
-*
+0-1
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -196,7 +196,7 @@
 [Round "4"]
 [White "knownothing123"]
 [Black "danimal t"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "pastpeak#0846"]
 [BlackId "danimal_t (L,C,-5)#7205"]
@@ -204,7 +204,7 @@
 [BlackElo "987"]
 
 {[%SevillaID "5180"]}
-*
+1-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -212,7 +212,7 @@
 [Round "4"]
 [White "Lg73204"]
 [Black "MatthewKCanada"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "Lg73204#6749"]
 [BlackId "MatthewKCanada#5929"]
@@ -220,7 +220,7 @@
 [BlackElo "1066"]
 
 {[%SevillaID "5179"]}
-*
+0-1
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -244,7 +244,7 @@
 [Round "4"]
 [White "mike1mike"]
 [Black "jenesuispasdave"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "Mike1Mike #5542"]
 [BlackId "jenesuispasdave#1523"]
@@ -252,7 +252,23 @@
 [BlackElo "490"]
 
 {[%SevillaID "5189"]}
-*
+1-0
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.26"]
+[Round "4"]
+[White "Quincti1lius"]
+[Black "nick harrigan"]
+[Result "1-0"]
+[Section "u1200"]
+[WhiteId "Quincti1ius#6217"]
+[BlackId "Nick Harrigan#7913"]
+[WhiteElo "1163"]
+[BlackElo "930"]
+
+{[%SevillaID "5256"]}
+1-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -260,7 +276,7 @@
 [Round "4"]
 [White "space foobar"]
 [Black "BelgianDood"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "space_foobar #5723"]
 [BlackId "BelgianDood#5171"]
@@ -268,7 +284,7 @@
 [BlackElo "1006"]
 
 {[%SevillaID "5185"]}
-*
+0-1
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -323,7 +339,7 @@
 [Round "4"]
 [White "Thalhuber"]
 [Black "mongreltiger"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "Thalhuber"]
 [BlackId "mongreltiger#9686"]
@@ -331,7 +347,7 @@
 [BlackElo "1115"]
 
 {[%SevillaID "5184"]}
-*
+0-1
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -363,22 +379,6 @@
 [BlackElo "950"]
 
 {[%SevillaID "5190"]}
-*
-
-[Event "2022 September Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.09.26"]
-[Round "4"]
-[White "Quincti1lius"]
-[Black "nick harrigan"]
-[Result "*"]
-[Section "u1200"]
-[WhiteId "Quincti1ius#6217"]
-[BlackId "Nick Harrigan#7913"]
-[WhiteElo "1163"]
-[BlackElo "930"]
-
-{[%SevillaID "5256"]}
 *
 
 
