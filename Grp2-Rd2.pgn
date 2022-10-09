@@ -2,6 +2,101 @@
 [Site "chess.com"]
 [Date "2022.09.12"]
 [Round "2"]
+[White "AliveSheet"]
+[Black "CrimsoNHellfire"]
+[Result "1-0"]
+[Section "1200-1600"]
+[WhiteId "memccrea#5885"]
+[BlackId "CrimsoN#7015"]
+[WhiteElo "1371"]
+[BlackElo "1528"]
+
+{[%SevillaID "4949"]}
+1-0
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.12"]
+[Round "2"]
+[White "Barnstorm"]
+[Black "Pareo331"]
+[Result "1-0"]
+[Section "1200-1600"]
+[WhiteId "Barnstorm#2520"]
+[BlackId "Pareo#5554"]
+[WhiteElo "1266"]
+[BlackElo "1358"]
+
+{[%SevillaID "4969"]}
+1-0
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.12"]
+[Round "2"]
+[White "camel5454"]
+[Black "wallybanks"]
+[Result "1-0"]
+[Section "1200-1600"]
+[WhiteId "rsstrahan#4769"]
+[WhiteElo "1302"]
+[BlackElo "1434"]
+
+{[%SevillaID "4965"]}
+1-0
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.12"]
+[Round "2"]
+[White "Catafalque"]
+[Black "Goodhumor"]
+[Result "1-0"]
+[Section "1200-1600"]
+[WhiteId "Nulskor#6956"]
+[BlackId "Ice Cream #7742"]
+[WhiteElo "1403"]
+[BlackElo "1263"]
+
+{[%SevillaID "4967"]}
+1-0
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.12"]
+[Round "2"]
+[White "Dokako"]
+[Black "imcimc1313"]
+[Result "0-1"]
+[Section "1200-1600"]
+[WhiteId "Dokako (C,L, -3)#6196"]
+[BlackId "Isaaccrane#1862"]
+[WhiteElo "1440"]
+[BlackElo "1595"]
+
+{[%SevillaID "4942"]}
+0-1
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.12"]
+[Round "2"]
+[White "DopeyAddick"]
+[Black "Harty333"]
+[Result "1-0"]
+[Section "1200-1600"]
+[WhiteId "SeaDevil#3785"]
+[BlackId "Chess_IceMan (L, UTC +1)#1787"]
+[WhiteElo "1325"]
+[BlackElo "1433"]
+
+{[%SevillaID "4955"]}
+1-0
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.12"]
+[Round "2"]
 [White "dsullivan21"]
 [Black "Ashhamm"]
 [Result "1-0"]
@@ -34,238 +129,16 @@
 [Site "chess.com"]
 [Date "2022.09.12"]
 [Round "2"]
-[White "Shurbz"]
-[Black "c4llmeco4ch"]
-[Result "1/2-1/2"]
-[Section "1200-1600"]
-[WhiteId "BenHedges#6591"]
-[BlackId "Co4ch#1457"]
-[WhiteElo "1222"]
-[BlackElo "1451"]
-
-{[%SevillaID "4954"]}
-1/2-1/2
-
-[Event "2022 September Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.09.12"]
-[Round "2"]
-[White "TW0GOATS"]
-[Black "ChamyChess"]
+[White "Eziltair146"]
+[Black "peter s68"]
 [Result "1-0"]
 [Section "1200-1600"]
-[WhiteId "TwoGoats#1285"]
-[WhiteElo "1238"]
-[BlackElo "1460"]
+[WhiteId "#Shreemay18"]
+[BlackId "#Peter_s"]
+[WhiteElo "1459"]
+[BlackElo "1314"]
 
-{[%SevillaID "4953"]}
-1-0
-
-[Event "2022 September Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.09.12"]
-[Round "2"]
-[White "FrenchFromage"]
-[Black "CheeseWizard13"]
-[Result "0-0"]
-[Section "1200-1600"]
-[WhiteId "Sim#2505"]
-[BlackId "Brynjar#2003"]
-[WhiteElo "1528"]
-[BlackElo "1321"]
-
-{[%SevillaID "4961"]}
-0-0
-
-[Event "2022 September Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.09.12"]
-[Round "2"]
-[White "mrpithers"]
-[Black "CKBega"]
-[Result "0-1"]
-[Section "1200-1600"]
-[BlackId "CKBega#3768"]
-[WhiteElo "1473"]
-[BlackElo "1225"]
-
-{[%SevillaID "4952"]}
-0-1
-
-[Event "2022 September Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.09.12"]
-[Round "2"]
-[White "AliveSheet"]
-[Black "CrimsoNHellfire"]
-[Result "1-0"]
-[Section "1200-1600"]
-[WhiteId "memccrea#5885"]
-[BlackId "CrimsoN#7015"]
-[WhiteElo "1371"]
-[BlackElo "1528"]
-
-{[%SevillaID "4949"]}
-1-0
-
-[Event "2022 September Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.09.12"]
-[Round "2"]
-[White "Firdswell"]
-[Black "Curtis2212"]
-[Result "0-1"]
-[Section "1200-1600"]
-[WhiteId "Firdswell 2809"]
-[BlackId "Curtis2212#6227"]
-[WhiteElo "1574"]
-[BlackElo "1222"]
-
-{[%SevillaID "4960"]}
-0-1
-
-[Event "2022 September Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.09.12"]
-[Round "2"]
-[White "kauberdi"]
-[Black "Gigaskipper"]
-[Result "1/2-1/2"]
-[Section "1200-1600"]
-[WhiteId "kauberdi#4599"]
-[BlackId "Almask#2032"]
-[WhiteElo "1325"]
-[BlackElo "1511"]
-
-{[%SevillaID "4962"]}
-1/2-1/2
-
-[Event "2022 September Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.09.12"]
-[Round "2"]
-[White "Catafalque"]
-[Black "Goodhumor"]
-[Result "1-0"]
-[Section "1200-1600"]
-[WhiteId "Nulskor#6956"]
-[BlackId "Ice Cream #7742"]
-[WhiteElo "1403"]
-[BlackElo "1263"]
-
-{[%SevillaID "4967"]}
-1-0
-
-[Event "2022 September Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.09.12"]
-[Round "2"]
-[White "DopeyAddick"]
-[Black "Harty333"]
-[Result "1-0"]
-[Section "1200-1600"]
-[WhiteId "SeaDevil#3785"]
-[BlackId "Chess_IceMan (L, UTC +1)#1787"]
-[WhiteElo "1325"]
-[BlackElo "1433"]
-
-{[%SevillaID "4955"]}
-1-0
-
-[Event "2022 September Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.09.12"]
-[Round "2"]
-[White "RevolverJack7"]
-[Black "hwooolz"]
-[Result "0-1"]
-[Section "1200-1600"]
-[WhiteId "RevolverJack7#6089"]
-[BlackId "wooolz#5552"]
-[WhiteElo "1396"]
-[BlackElo "1320"]
-
-{[%SevillaID "4956"]}
-0-1
-
-[Event "2022 September Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.09.12"]
-[Round "2"]
-[White "Dokako"]
-[Black "imcimc1313"]
-[Result "0-1"]
-[Section "1200-1600"]
-[WhiteId "Dokako (C,L, -3)#6196"]
-[BlackId "Isaaccrane#1862"]
-[WhiteElo "1440"]
-[BlackElo "1595"]
-
-{[%SevillaID "4942"]}
-0-1
-
-[Event "2022 September Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.09.12"]
-[Round "2"]
-[White "Hans Robinson"]
-[Black "isolated rook"]
-[Result "1-0"]
-[Section "1200-1600"]
-[WhiteId "Kamaev Egor#3219"]
-[BlackId "Big Jo#8915"]
-[WhiteElo "1340"]
-[BlackElo "1245"]
-
-{[%SevillaID "4958"]}
-1-0
-
-[Event "2022 September Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.09.12"]
-[Round "2"]
-[White "SniffOhGod"]
-[Black "Itzael ML"]
-[Result "1-0"]
-[Section "1200-1600"]
-[WhiteId "Psycho John Madden#1828"]
-[BlackId "Itzael#2872"]
-[WhiteElo "1574"]
-[BlackElo "1400"]
-
-{[%SevillaID "4943"]}
-1-0
-
-[Event "2022 September Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.09.12"]
-[Round "2"]
-[White "spotted hedgehog"]
-[Black "lmplay"]
-[Result "0-1"]
-[Section "1200-1600"]
-[WhiteId "spotted_hedgehog (L, -5)#0174"]
-[BlackId "lmplay#"]
-[WhiteElo "1289"]
-[BlackElo "1413"]
-
-{[%SevillaID "4966"]}
-0-1
-
-[Event "2022 September Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.09.12"]
-[Round "2"]
-[White "LaNeraTorre"]
-[Black "luisefren01"]
-[Result "1-0"]
-[Section "1200-1600"]
-[WhiteId "LaNeraTorre#9647"]
-[BlackId "luisefren01#0865"]
-[WhiteElo "1223"]
-[BlackElo "1337"]
-
-{[%SevillaID "4973"]}
+{[%SevillaID "4964"]}
 1-0
 
 [Event "2022 September Dojo Classical"]
@@ -288,48 +161,33 @@
 [Site "chess.com"]
 [Date "2022.09.12"]
 [Round "2"]
-[White "squarezou"]
-[Black "Nthplayer1"]
-[Result "1/2-1/2"]
-[Section "1200-1600"]
-[WhiteId "Leavzou#6109"]
-[WhiteElo "1564"]
-[BlackElo "1360"]
-
-{[%SevillaID "4945"]}
-1/2-1/2
-
-[Event "2022 September Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.09.12"]
-[Round "2"]
-[White "Barnstorm"]
-[Black "Pareo331"]
+[White "figgeous"]
+[Black "Ricker"]
 [Result "1-0"]
 [Section "1200-1600"]
-[WhiteId "Barnstorm#2520"]
-[BlackId "Pareo#5554"]
-[WhiteElo "1266"]
-[BlackElo "1358"]
+[WhiteId "figgeous1182"]
+[BlackId "Ricker#5570"]
+[WhiteElo "1350"]
+[BlackElo "1208"]
 
-{[%SevillaID "4969"]}
+{[%SevillaID "4971"]}
 1-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
 [Date "2022.09.12"]
 [Round "2"]
-[White "Eziltair146"]
-[Black "peter s68"]
-[Result "1-0"]
+[White "Firdswell"]
+[Black "Curtis2212"]
+[Result "0-1"]
 [Section "1200-1600"]
-[WhiteId "#Shreemay18"]
-[BlackId "#Peter_s"]
-[WhiteElo "1459"]
-[BlackElo "1314"]
+[WhiteId "Firdswell 2809"]
+[BlackId "Curtis2212#6227"]
+[WhiteElo "1574"]
+[BlackElo "1222"]
 
-{[%SevillaID "4964"]}
-1-0
+{[%SevillaID "4960"]}
+0-1
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -351,17 +209,17 @@
 [Site "chess.com"]
 [Date "2022.09.12"]
 [Round "2"]
-[White "figgeous"]
-[Black "Ricker"]
-[Result "1-0"]
+[White "FrenchFromage"]
+[Black "CheeseWizard13"]
+[Result "0-0"]
 [Section "1200-1600"]
-[WhiteId "figgeous1182"]
-[BlackId "Ricker#5570"]
-[WhiteElo "1350"]
-[BlackElo "1208"]
+[WhiteId "Sim#2505"]
+[BlackId "Brynjar#2003"]
+[WhiteElo "1528"]
+[BlackElo "1321"]
 
-{[%SevillaID "4971"]}
-1-0
+{[%SevillaID "4961"]}
+0-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -382,6 +240,69 @@
 [Site "chess.com"]
 [Date "2022.09.12"]
 [Round "2"]
+[White "Hans Robinson"]
+[Black "isolated rook"]
+[Result "1-0"]
+[Section "1200-1600"]
+[WhiteId "Kamaev Egor#3219"]
+[BlackId "Big Jo#8915"]
+[WhiteElo "1340"]
+[BlackElo "1245"]
+
+{[%SevillaID "4958"]}
+1-0
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.12"]
+[Round "2"]
+[White "kauberdi"]
+[Black "Gigaskipper"]
+[Result "1/2-1/2"]
+[Section "1200-1600"]
+[WhiteId "kauberdi#4599"]
+[BlackId "Almask#2032"]
+[WhiteElo "1325"]
+[BlackElo "1511"]
+
+{[%SevillaID "4962"]}
+1/2-1/2
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.12"]
+[Round "2"]
+[White "LaNeraTorre"]
+[Black "luisefren01"]
+[Result "1-0"]
+[Section "1200-1600"]
+[WhiteId "LaNeraTorre#9647"]
+[BlackId "luisefren01#0865"]
+[WhiteElo "1223"]
+[BlackElo "1337"]
+
+{[%SevillaID "4973"]}
+1-0
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.12"]
+[Round "2"]
+[White "mrpithers"]
+[Black "CKBega"]
+[Result "0-1"]
+[Section "1200-1600"]
+[BlackId "CKBega#3768"]
+[WhiteElo "1473"]
+[BlackElo "1225"]
+
+{[%SevillaID "4952"]}
+0-1
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.12"]
+[Round "2"]
 [White "ol dirty bispo"]
 [Black "sbmcmanus"]
 [Result "0-1"]
@@ -392,22 +313,6 @@
 
 {[%SevillaID "4970"]}
 0-1
-
-[Event "2022 September Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.09.12"]
-[Round "2"]
-[White "youssefjochess"]
-[Black "Shokudan"]
-[Result "1-0"]
-[Section "1200-1600"]
-[WhiteId "YOUSSEFVA#5192"]
-[BlackId "Shokudan#7863"]
-[WhiteElo "1534"]
-[BlackElo "1317"]
-
-{[%SevillaID "4948"]}
-1-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -461,16 +366,17 @@
 [Site "chess.com"]
 [Date "2022.09.12"]
 [Round "2"]
-[White "camel5454"]
-[Black "wallybanks"]
-[Result "1-0"]
+[White "RevolverJack7"]
+[Black "hwooolz"]
+[Result "0-1"]
 [Section "1200-1600"]
-[WhiteId "rsstrahan#4769"]
-[WhiteElo "1302"]
-[BlackElo "1434"]
+[WhiteId "RevolverJack7#6089"]
+[BlackId "wooolz#5552"]
+[WhiteElo "1396"]
+[BlackElo "1320"]
 
-{[%SevillaID "4965"]}
-1-0
+{[%SevillaID "4956"]}
+0-1
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -486,5 +392,99 @@
 
 {[%SevillaID "4944"]}
 0-1
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.12"]
+[Round "2"]
+[White "Shurbz"]
+[Black "c4llmeco4ch"]
+[Result "1/2-1/2"]
+[Section "1200-1600"]
+[WhiteId "BenHedges#6591"]
+[BlackId "Co4ch#1457"]
+[WhiteElo "1222"]
+[BlackElo "1451"]
+
+{[%SevillaID "4954"]}
+1/2-1/2
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.12"]
+[Round "2"]
+[White "SniffOhGod"]
+[Black "Itzael ML"]
+[Result "1-0"]
+[Section "1200-1600"]
+[WhiteId "Psycho John Madden#1828"]
+[BlackId "Itzael#2872"]
+[WhiteElo "1574"]
+[BlackElo "1400"]
+
+{[%SevillaID "4943"]}
+1-0
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.12"]
+[Round "2"]
+[White "spotted hedgehog"]
+[Black "lmplay"]
+[Result "0-1"]
+[Section "1200-1600"]
+[WhiteId "spotted_hedgehog (L, -5)#0174"]
+[BlackId "lmplay#"]
+[WhiteElo "1289"]
+[BlackElo "1413"]
+
+{[%SevillaID "4966"]}
+0-1
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.12"]
+[Round "2"]
+[White "squarezou"]
+[Black "Nthplayer1"]
+[Result "1/2-1/2"]
+[Section "1200-1600"]
+[WhiteId "Leavzou#6109"]
+[WhiteElo "1564"]
+[BlackElo "1360"]
+
+{[%SevillaID "4945"]}
+1/2-1/2
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.12"]
+[Round "2"]
+[White "TW0GOATS"]
+[Black "ChamyChess"]
+[Result "1-0"]
+[Section "1200-1600"]
+[WhiteId "TwoGoats#1285"]
+[WhiteElo "1238"]
+[BlackElo "1460"]
+
+{[%SevillaID "4953"]}
+1-0
+
+[Event "2022 September Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.09.12"]
+[Round "2"]
+[White "youssefjochess"]
+[Black "Shokudan"]
+[Result "1-0"]
+[Section "1200-1600"]
+[WhiteId "YOUSSEFVA#5192"]
+[BlackId "Shokudan#7863"]
+[WhiteElo "1534"]
+[BlackElo "1317"]
+
+{[%SevillaID "4948"]}
+1-0
 
 
