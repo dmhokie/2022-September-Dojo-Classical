@@ -35,7 +35,7 @@
 [Round "5"]
 [White "backgroundtasks"]
 [Black "Brake0fDawn"]
-[Result "*"]
+[Result "0-0"]
 [Section "1200-1600"]
 [WhiteId "backgroundtasks#8903"]
 [BlackId "nyghtfury#9951"]
@@ -43,7 +43,7 @@
 [BlackElo "1350"]
 
 {[%SevillaID "5298"]}
-*
+0-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -67,7 +67,7 @@
 [Round "5"]
 [White "CrimsoNHellfire"]
 [Black "camel5454"]
-[Result "*"]
+[Result "0-0"]
 [Section "1200-1600"]
 [WhiteId "CrimsoN#7015"]
 [BlackId "rsstrahan#4769"]
@@ -75,7 +75,7 @@
 [BlackElo "1302"]
 
 {[%SevillaID "5301"]}
-*
+0-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -83,7 +83,7 @@
 [Round "5"]
 [White "Curtis2212"]
 [Black "Itzael ML"]
-[Result "*"]
+[Result "0-0"]
 [Section "1200-1600"]
 [WhiteId "Curtis2212#6227"]
 [BlackId "Itzael#2872"]
@@ -91,7 +91,7 @@
 [BlackElo "1400"]
 
 {[%SevillaID "5299"]}
-*
+0-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -115,7 +115,7 @@
 [Round "5"]
 [White "Falken1984"]
 [Black "dsullivan21"]
-[Result "*"]
+[Result "0-0"]
 [Section "1200-1600"]
 [WhiteId "Falken1984#4114"]
 [BlackId "dsully#7010"]
@@ -123,7 +123,7 @@
 [BlackElo "1550"]
 
 {[%SevillaID "5282"]}
-*
+0-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -131,7 +131,7 @@
 [Round "5"]
 [White "figgeous"]
 [Black "FourOne1"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [WhiteId "figgeous1182"]
 [BlackId "FourOne1#1161"]
@@ -139,7 +139,7 @@
 [BlackElo "1451"]
 
 {[%SevillaID "5284"]}
-*
+1-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -195,7 +195,7 @@
 [Round "5"]
 [White "lmplay"]
 [Black "Barnstorm"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [WhiteId "lmplay#"]
 [BlackId "Barnstorm#2520"]
@@ -203,7 +203,7 @@
 [BlackElo "1266"]
 
 {[%SevillaID "5296"]}
-*
+1-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -272,7 +272,7 @@
 [Round "5"]
 [White "pantsi98"]
 [Black "RevolverJack7"]
-[Result "*"]
+[Result "0-0"]
 [Section "1200-1600"]
 [WhiteId "pantsi#7205"]
 [BlackId "RevolverJack7#6089"]
@@ -280,7 +280,7 @@
 [BlackElo "1396"]
 
 {[%SevillaID "5297"]}
-*
+0-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -288,7 +288,7 @@
 [Round "5"]
 [White "Pareo331"]
 [Black "Goodhumor"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [WhiteId "Pareo#5554"]
 [BlackId "Ice Cream #7742"]
@@ -296,7 +296,7 @@
 [BlackElo "1263"]
 
 {[%SevillaID "5302"]}
-*
+1-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -383,7 +383,7 @@
 [Round "5"]
 [White "SophieSafuya"]
 [Black "Flitz00"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1200-1600"]
 [WhiteId "Safuya#7702"]
 [BlackId "joshuarr#0849"]
@@ -391,7 +391,7 @@
 [BlackElo "1371"]
 
 {[%SevillaID "5288"]}
-*
+1/2-1/2
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -399,7 +399,7 @@
 [Round "5"]
 [White "squarezou"]
 [Black "hwooolz"]
-[Result "*"]
+[Result "0-0"]
 [Section "1200-1600"]
 [WhiteId "Leavzou#6109"]
 [BlackId "wooolz#5552"]
@@ -407,7 +407,7 @@
 [BlackElo "1320"]
 
 {[%SevillaID "5290"]}
-*
+0-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -415,7 +415,7 @@
 [Round "5"]
 [White "TW0GOATS"]
 [Black "gpetris"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [WhiteId "TwoGoats#1285"]
 [BlackId "gpetris#1791"]
@@ -423,7 +423,7 @@
 [BlackElo "1326"]
 
 {[%SevillaID "5289"]}
-*
+1-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -447,14 +447,14 @@
 [Round "5"]
 [White "wallybanks"]
 [Black "FrenchFromage"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600"]
 [BlackId "Sim#2505"]
 [WhiteElo "1434"]
 [BlackElo "1528"]
 
 {[%SevillaID "5308"]}
-*
+0-1
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -462,7 +462,7 @@
 [Round "5"]
 [White "youssefjochess"]
 [Black "Hans Robinson"]
-[Result "*"]
+[Result "0-0"]
 [Section "1200-1600"]
 [WhiteId "YOUSSEFVA#5192"]
 [BlackId "Kamaev Egor#3219"]
@@ -470,6 +470,6 @@
 [BlackElo "1340"]
 
 {[%SevillaID "5283"]}
-*
+0-0
 
 
