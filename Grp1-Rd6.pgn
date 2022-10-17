@@ -52,7 +52,7 @@
 [Round "6"]
 [White "gundamwingsdj"]
 [Black "catesta"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200"]
 [WhiteId "gundamwings#1919"]
 [BlackId "TaylorCates#4384"]
@@ -60,7 +60,7 @@
 [BlackElo "1110"]
 
 {[%SevillaID "5412"]}
-*
+0-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -68,7 +68,7 @@
 [Round "6"]
 [White "hailbo"]
 [Black "mbldevilrays"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "hailbo#6804"]
 [BlackId "mbldevilraysC"]
@@ -76,7 +76,7 @@
 [BlackElo "793"]
 
 {[%SevillaID "5411"]}
-*
+1-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -132,7 +132,7 @@
 [Round "6"]
 [White "knownothing123"]
 [Black "StevoWard"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "pastpeak#0846"]
 [BlackId "StevoWard#3450"]
@@ -140,7 +140,7 @@
 [BlackElo "1082"]
 
 {[%SevillaID "5404"]}
-*
+1-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -196,7 +196,7 @@
 [Round "6"]
 [White "Muddlah"]
 [Black "J0hnCage"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "Muddlah #1053"]
 [BlackId "spoitras#1066"]
@@ -204,7 +204,7 @@
 [BlackElo "1052"]
 
 {[%SevillaID "5397"]}
-*
+1-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -212,14 +212,14 @@
 [Round "6"]
 [White "nick harrigan"]
 [Black "P P B G"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200"]
 [WhiteId "Nick Harrigan#7913"]
 [WhiteElo "930"]
 [BlackElo "1100"]
 
 {[%SevillaID "5414"]}
-*
+0-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -227,7 +227,7 @@
 [Round "6"]
 [White "Quincti1lius"]
 [Black "Na4olean"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "u1200"]
 [WhiteId "Quincti1ius#6217"]
 [BlackId "Na4olean#6091"]
@@ -235,7 +235,7 @@
 [BlackElo "640"]
 
 {[%SevillaID "5402"]}
-*
+1/2-1/2
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -291,7 +291,7 @@
 [Round "6"]
 [White "sully2112"]
 [Black "omarrsgraham"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200"]
 [WhiteId "sully2112#4628"]
 [BlackId "omarrsgraham 1970"]
@@ -299,7 +299,7 @@
 [BlackElo "900"]
 
 {[%SevillaID "5415"]}
-*
+0-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
@@ -339,7 +339,7 @@
 [Round "6"]
 [White "valakon"]
 [Black "bjg819"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200"]
 [WhiteId "Valakon.7854"]
 [BlackId "billy_gardner_(C, -7)#6914"]
@@ -347,7 +347,7 @@
 [BlackElo "994"]
 
 {[%SevillaID "5395"]}
-*
+0-0
 
 [Event "2022 September Dojo Classical"]
 [Site "chess.com"]
